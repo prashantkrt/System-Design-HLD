@@ -2,7 +2,8 @@
 
 ## 🔍 What is Availability?
 
-**Availability** is the ability of a system or component to be operational and accessible when required.
+**Availability** is the ability of a system or component to be operational and accessible when required. Fault Tolerance directly contributes to High Availability in system design.
+
 
 > **Formula:**  
 > **Availability (%) = (Uptime) / (Uptime + Downtime) × 100**
@@ -71,4 +72,6 @@ If your service was up **999 hours** and down **1 hour**: Availability = 999 / (
 
 > High availability = Resilience + Monitoring + Redundancy + Smart Design  
 > "Design for failure and nothing fails."
+> **Redundancy**: Extra hardware/components to take over during failure.
+> **Replication**: Duplicate data/services to avoid single points of failure.
 
