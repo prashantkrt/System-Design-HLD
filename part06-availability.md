@@ -71,8 +71,7 @@ If your service was up **999 hours** and down **1 hour**: Availability = 999 / (
 ## 🧠 Summary
 
 > High availability = Resilience + Monitoring + Redundancy + Smart Design  
-> "Design for failure and nothing fails."
->
-> **Redundancy**: Extra hardware/components to take over during failure.
+> "Design for failure and nothing fails."</br>
+> **Redundancy**: Extra hardware/components to take over during failure.</br>
 > **Replication**: Duplicate data/services to avoid single points of failure.
 
