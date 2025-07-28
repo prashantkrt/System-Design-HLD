@@ -66,6 +66,9 @@ Use tools like:
 
 - Use **asynchronous/non-blocking I/O**
 - Add **caching** (Redis, Memcached)
+- Use **CDN**
+- Use **Distrubuted System**
+- Improved system resources **SSDs**
 - Optimize **DB queries & indexes**
 - Introduce **load balancers**
 - **Horizontal scaling** (add more servers)
