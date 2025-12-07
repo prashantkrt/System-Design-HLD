@@ -31,7 +31,7 @@ It’s the opposite of normalization and is often used in **system design** when
 2. **Order Table**
 
 | OrderID | CustomerID | OrderDate   |
-|--------:|-----------:|-------------|
+|---------|------------|-------------|
 | 101     | 1          | 2023-08-01  |
 
 3. **Product Table**
