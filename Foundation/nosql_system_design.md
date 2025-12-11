@@ -1,7 +1,7 @@
 
 # NoSQL Databases in System Design — Complete Guide
 
-**Author:** Generated for Prashant  
+**Author:** Prashant Kumar Tiwary
 **Date:** 2025-12-11  
 
 ---

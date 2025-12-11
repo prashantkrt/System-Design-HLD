@@ -1,7 +1,7 @@
 
 # ACID Properties — Clear Guide with Examples
 
-**Author:** Generated for Prashant  
+**Author:** Prashant Kumar Tiwary
 **Date:** 2025-12-11
 
 ---

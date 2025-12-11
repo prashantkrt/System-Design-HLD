@@ -1,7 +1,7 @@
 
 # Database Normalization — Step-by-step Guide with Simple Examples
 
-**Author:** Generated for Prashant  
+**Author:** Prashant Kumar Tiwary
 **Date:** 2025-12-11
 
 ---
